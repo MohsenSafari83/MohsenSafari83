@@ -1,9 +1,8 @@
 # Hi there 👋, I'm mohsen
 
-🎓 Electrical Engineering student  
+🎓 Electrical Engineering student | 📊 Machine Learning & Data Science enthusiast  
+💡 Passionate about applying AI/ML in engineering, automation, and real-world problem solving
 🌍 Showcasing my skills, projects, and learning journey
-📊 Machine Learning & Data Science enthusiast
-
 ## 🔧 Skills
 - Programming: Python, C++ 
 - ML & Data Science: Regression, Classification, Clustering, Decision Trees, Random Forest, KNN, Naive Bayes  
