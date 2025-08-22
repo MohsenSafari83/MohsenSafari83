@@ -1,7 +1,6 @@
 # Hi there 👋, I'm mohsen
 
 🎓 Electrical Engineering student  
-💡 Interested in applying AI/ML in engineering and real-world problem solving  
 🌍 Showcasing my skills, projects, and learning journey
 📊 Machine Learning & Data Science enthusiast
 
