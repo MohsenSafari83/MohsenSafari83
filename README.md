@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋, I'm [mohsen safari]
 
-<!--
-**MohsenSafari83/MohsenSafari83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electrical Engineering student | 📊 Machine Learning & Data Science enthusiast  
+💡 Passionate about applying AI/ML in engineering, automation, and real-world problem solving  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Tools
+- Programming: Python (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn)  
+- Machine Learning: Regression, Classification, Clustering, Decision Trees, Random Forest, KNN, Naive Bayes  
+- Other Tools: Git, GitHub, Jupyter Notebook  
+
+
