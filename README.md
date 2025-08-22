@@ -1,13 +1,12 @@
-# Hi there 👋, I'm [mohsen safari]
+# Hi there 👋, I'm mohsen
 
 🎓 Electrical Engineering student | 📊 Machine Learning & Data Science enthusiast  
-💡 Passionate about applying AI/ML in engineering, automation, and real-world problem solving  
+💡 Interested in applying AI/ML in engineering, automation, and real-world problem solving  
 
 ---
 
-## 🔧 Skills & Tools
-- Programming: Python (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn)  
-- Machine Learning: Regression, Classification, Clustering, Decision Trees, Random Forest, KNN, Naive Bayes  
-- Other Tools: Git, GitHub, Jupyter Notebook  
-
+## 🔧 Skills
+- Programming: Python, C++  
+- ML & Data Science: Regression, Classification, Clustering, Decision Trees, Random Forest, KNN, Naive Bayes  
+- Tools: Git, GitHub, Jupyter Notebook, Matplotlib, Pandas, Scikit-learn  
 
