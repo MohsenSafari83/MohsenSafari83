@@ -1,4 +1,4 @@
-# Hi there 👋, I'm mohsen
+# Hi there, I'm mohsen
 
 🎓 Electrical Engineering student    
 📊 Machine Learning & Data Science enthusiast  
