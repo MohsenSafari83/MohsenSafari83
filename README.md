@@ -18,7 +18,7 @@
 
 
 
-<a href="https://www.https://www.linkedin.com/in/mohsenn-safari/" target="_blank">
+<a href="https://www.linkedin.com/in/mohsenn-safari/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" style="fill:#0077B5; margin-right: 10px;">
 </a>
 
