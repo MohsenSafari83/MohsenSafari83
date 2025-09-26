@@ -14,10 +14,19 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MohsenSafari83&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ## Connect with me: 
 
-[![LinkedIn](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg)](linkedin.com/in/mohsenn-safari)  
-[![Telegram](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg)](https://t.me/Mohsenn_sri)
+
+
+<a href="https://www.https://www.linkedin.com/in/mohsenn-safari/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" style="fill:#0077B5; margin-right: 10px;">
+</a>
+
+<a href="https://t.me/Mohsenn_sri" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" width="30" height="30" style="fill:#26A5E4;">
+</a>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
