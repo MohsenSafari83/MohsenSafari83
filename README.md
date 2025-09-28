@@ -32,8 +32,9 @@
 ---
 If you have inquiries, collaboration opportunities, or wish to discuss AI and ML projects, feel free to connect:
 
-📧 Email: [mohsenn.safari83@gmail.com](mailto:mohsenn.safari83@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/mohsenn-safari](https://www.linkedin.com/in/mohsenn-safari)
+[Email](mailto:mohsenn.safari83@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/mohsenn-safari)
+
 
 
 
