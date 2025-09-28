@@ -5,52 +5,53 @@
  Passionate about applying AI/ML in engineering, automation, and real-world problem solving    
  Showcasing my skills, projects, and learning journey
 
-## Languages and Tools:
 
-<div style="display:flex; gap:15px; align-items:center; flex-wrap: nowrap;">
-  <div style="text-align:center;">
+  ##  Languages and Tools:
+
+<div style="display:flex; gap:15px; flex-wrap: nowrap; align-items:flex-start;">
+  <div style="display:flex; flex-direction:column; align-items:center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>
-    <div style="font-size:10px;">Python</div>
+    <span style="font-size:10px;">Python</span>
   </div>
-  <div style="text-align:center;">
+  <div style="display:flex; flex-direction:column; align-items:center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/>
-    <div style="font-size:10px;">C++</div>
+    <span style="font-size:10px;">C++</span>
   </div>
-  <div style="text-align:center;">
+  <div style="display:flex; flex-direction:column; align-items:center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40"/>
-    <div style="font-size:10px;">NumPy</div>
+    <span style="font-size:10px;">NumPy</span>
   </div>
-  <div style="text-align:center;">
+  <div style="display:flex; flex-direction:column; align-items:center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40"/>
-    <div style="font-size:10px;">Matplotlib</div>
+    <span style="font-size:10px;">Matplotlib</span>
   </div>
-  <div style="text-align:center;">
+  <div style="display:flex; flex-direction:column; align-items:center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40"/>
-    <div style="font-size:10px;">Pandas</div>
+    <span style="font-size:10px;">Pandas</span>
   </div>
-  <div style="text-align:center;">
+  <div style="display:flex; flex-direction:column; align-items:center;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40"/>
-    <div style="font-size:10px;">Scikit-learn</div>
+    <span style="font-size:10px;">Scikit-learn</span>
   </div>
-  <div style="text-align:center;">
+  <div style="display:flex; flex-direction:column; align-items:center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40"/>
-    <div style="font-size:10px;">GitHub</div>
+    <span style="font-size:10px;">GitHub</span>
   </div>
-  <div style="text-align:center;">
+  <div style="display:flex; flex-direction:column; align-items:center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="40"/>
-    <div style="font-size:10px;">Kaggle</div>
+    <span style="font-size:10px;">Kaggle</span>
   </div>
-  <div style="text-align:center;">
+  <div style="display:flex; flex-direction:column; align-items:center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/>
-    <div style="font-size:10px;">Git</div>
+    <span style="font-size:10px;">Git</span>
   </div>
-  <div style="text-align:center;">
+  <div style="display:flex; flex-direction:column; align-items:center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40"/>
-    <div style="font-size:10px;">Jupyter</div>
+    <span style="font-size:10px;">Jupyter</span>
   </div>
-  <div style="text-align:center;">
+  <div style="display:flex; flex-direction:column; align-items:center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40"/>
-    <div style="font-size:10px;">SQL</div>
+    <span style="font-size:10px;">SQL</span>
   </div>
 </div>
 
