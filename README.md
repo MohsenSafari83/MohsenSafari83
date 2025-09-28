@@ -7,18 +7,51 @@
 
 ## Languages and Tools:
 
-<div style="display:flex; gap:5px; align-items:center; flex-wrap: nowrap;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" title="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" title="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="30" title="NumPy"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="30" title="Matplotlib"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="30" title="Pandas"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="30" title="Scikit-learn"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30" title="GitHub"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="30" title="Kaggle"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30" title="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="30" title="Jupyter"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="30" title="SQL"/>
+<div style="display:flex; gap:15px; align-items:center; flex-wrap: nowrap;">
+  <div style="text-align:center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>
+    <div style="font-size:10px;">Python</div>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/>
+    <div style="font-size:10px;">C++</div>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40"/>
+    <div style="font-size:10px;">NumPy</div>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40"/>
+    <div style="font-size:10px;">Matplotlib</div>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40"/>
+    <div style="font-size:10px;">Pandas</div>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40"/>
+    <div style="font-size:10px;">Scikit-learn</div>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40"/>
+    <div style="font-size:10px;">GitHub</div>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="40"/>
+    <div style="font-size:10px;">Kaggle</div>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/>
+    <div style="font-size:10px;">Git</div>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40"/>
+    <div style="font-size:10px;">Jupyter</div>
+  </div>
+  <div style="text-align:center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40"/>
+    <div style="font-size:10px;">SQL</div>
+  </div>
 </div>
 
 ---
