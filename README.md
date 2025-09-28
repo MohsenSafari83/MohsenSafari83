@@ -4,28 +4,32 @@
  Machine Learning & Data Science enthusiast  
  Passionate about applying AI/ML in engineering, automation, and real-world problem solving    
  Showcasing my skills, projects, and learning journey
+---
+## Languages and Tools:
 
-## Languages and Tools
+<div style="display:flex; gap:5px; align-items:center; flex-wrap: nowrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="30"/>
+</div>
 
-<img src="https://iconscout.com/lottie-animations/python-logo" alt="Python" width="40"/> 
-<img src="https://lordicon.com/icons/wired/outline/1324-c-code-language" alt="C++" width="40"/> 
-<img src="https://numpy.org/images/logo.svg" alt="NumPy" width="40"/> 
-<img src="https://matplotlib.org/stable/_images/sphx_glr_simple_plot_001.png" alt="Matplotlib" width="40"/> 
-<img src="https://pandas.pydata.org/static/img/pandas.svg" alt="Pandas" width="40"/> 
-<img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" width="40"/> 
-<img src="https://github.com/logos/github-logo.png" alt="GitHub" width="40"/> 
-<img src="https://www.kaggle.com/static/images/logo.svg" alt="Kaggle" width="40"/> 
-<img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" alt="Git" width="40"/> 
-<img src="https://jupyter.org/assets/main-logo.svg" alt="Jupyter" width="40"/>
 
-
+---
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MohsenSafari83&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MohsenSafari83&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohsenSafari83&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=MohsenSafari83&icon=0&color=0)](https://visitcount.itsvg.in)
-
+---
 ## Connect with me: 
 
 
