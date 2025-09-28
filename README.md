@@ -21,7 +21,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" title="Jupyter"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" title="SQL"/>
 </div>
+## My Recent Projects:
 
+- [Customer Segmentation](https://github.com/MohsenSafari83/Unsupervised-Learning-/tree/main/project) – Segmenting customers based on behavior and characteristics.  
+- [Heart Failure Prediction](https://github.com/MohsenSafari83/heart-failure-prediction) – Predicting heart failure using ML models.  
+- [Clustering & Dimensional Reduction Guide](https://github.com/MohsenSafari83/Unsupervised-Learning-/tree/main/docs) – Document covering theory and techniques.  
+- [Linear Regression on California Housing](https://github.com/YourUsername/Linear-Regression-California) – Regression project with practical dataset and theory.  
+- [Python Cheat Sheet](https://github.com/MohsenSafari83/Supervised-Learning-/tree/main/Python_Cheat_Sheet) – Quick reference for ML commands and library usage.  
+- [Data Preprocessing](https://github.com/MohsenSafari83/Supervised-Learning-/tree/main/Data%20Preprocessing) – Tips, techniques, and hands-on examples for cleaning and preparing data.
 ---
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MohsenSafari83&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
