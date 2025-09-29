@@ -7,13 +7,14 @@ Showcasing my skills, projects, and learning journey
 
 ---
 
+
 ##  Languages and Tools
 
 <div style="display:flex; gap:8px; flex-wrap: nowrap; align-items:center;">
   <!-- Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="36" title="Python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="36" title="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/mysql-original.svg" alt="SQL" width="36" title="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="36" title="SQL"/>
   
   <!-- Libraries -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="36" title="NumPy"/>
@@ -27,6 +28,7 @@ Showcasing my skills, projects, and learning journey
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="36" title="GitHub"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="36" title="Kaggle"/>
 </div>
+
 
 ---
 ## My Recent Projects
