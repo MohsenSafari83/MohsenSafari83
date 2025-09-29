@@ -1,9 +1,11 @@
-# Hi there, I'm Mohsen
+<h1 align="center">Hi, I'm Mohsen</h1>
 
 Electrical Engineering student at Shahid Beheshti University of Tehran  
 Machine Learning & Data Science enthusiast  
 Passionate about applying AI/ML in engineering, automation, and real-world problem solving  
 Showcasing my skills, projects, and learning journey
+
+---
 
 ## Languages and Tools:
 
@@ -21,6 +23,8 @@ Showcasing my skills, projects, and learning journey
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="36" title="SQL"/>
 </div>
 
+---
+
 ## My Recent Projects:
 
 - [Customer Segmentation](https://github.com/MohsenSafari83/Unsupervised-Learning-/tree/main/project) – Segmenting customers based on behavior and characteristics.  
@@ -32,7 +36,8 @@ Showcasing my skills, projects, and learning journey
 
 ---
 
-# GitHub Stats:
+## GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=MohsenSafari83&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MohsenSafari83&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohsenSafari83&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -41,7 +46,16 @@ Showcasing my skills, projects, and learning journey
 
 ---
 
-If you have inquiries, collaboration opportunities, or wish to discuss AI and ML projects, feel free to connect:
+## Connect with me:
 
 [Email](mailto:mohsenn.safari83@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/mohsenn-safari)
+[LinkedIn](https://www.linkedin.com/in/mohsenn-safari)  
+
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
