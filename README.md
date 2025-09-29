@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mohsen 👋</h1>
+<h1 align="center">Hi, I'm Mohsen</h1>
 
 Electrical Engineering student at Shahid Beheshti University of Tehran  
 Machine Learning & Data Science enthusiast  
@@ -49,7 +49,6 @@ Showcasing my skills, projects, and learning journey
   <a href="https://t.me/Mohsenn_sri">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" height="25" alt="Telegram"/>
   </a>
----
 
 ## GitHub Stats
 
