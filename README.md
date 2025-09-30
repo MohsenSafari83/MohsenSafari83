@@ -39,7 +39,7 @@ Showcasing my skills, projects, and learning journey
 - [**Linear Regression on California Housing**](https://github.com/MohsenSafari83/Supervised-Learning-/tree/main/Linear%20Regression) – Regression project with practical dataset and theory.  
 - [**Python Cheat Sheet**](https://github.com/MohsenSafari83/Supervised-Learning-/tree/main/Python_Cheat_Sheet) – Quick reference for ML commands and library usage.  
 - [**Data Preprocessing**](https://github.com/MohsenSafari83/Supervised-Learning-/tree/main/Data%20Preprocessing) – Tips, techniques, and hands-on examples for cleaning and preparing data.
-
+- [**SQL Tutorial**](https://github.com/MohsenSafari83/SQL-Tutorial)  –A concise and practical tutorial for learning SQL and relational database concepts.
 
 ## Connect with me
 
