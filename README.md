@@ -31,7 +31,7 @@ Showcasing my skills, projects, and learning journey
 
 
 ---
-##  My Recent Projects
+##  My Projects
 
 I’ve organized my work into a **master repository**:  
 [Machine Learning Projects](https://github.com/MohsenSafari83/machine-learning-projects)
