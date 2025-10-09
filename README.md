@@ -46,13 +46,13 @@ I’ve organized my work into a **master repository**:
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" height="25" alt="Telegram"/>
   </a>
 
-##  GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
   <!-- GitHub Streak -->
   <img 
-       src="https://streak-stats.demolab.com/?user=MohsenSafari83&theme=dracula&hide_border=false&border_radius=5" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=MohsenSafari83&theme=dracula&hide_border=false&border_radius=5" 
        height="150" 
        alt="GitHub Streak" />
   <br><br>
@@ -71,7 +71,6 @@ I’ve organized my work into a **master repository**:
 
 </div>
 
----
 
 
 
