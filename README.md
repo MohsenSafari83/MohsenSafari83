@@ -46,11 +46,30 @@ I’ve organized my work into a **master repository**:
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" height="25" alt="Telegram"/>
   </a>
 
-## GitHub Stats
+##  GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MohsenSafari83&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
 
+  <!-- GitHub Streak -->
+  <img 
+       src="https://streak-stats.demolab.com/?user=MohsenSafari83&theme=dracula&hide_border=false&border_radius=5" 
+       height="150" 
+       alt="GitHub Streak" />
+  <br><br>
+
+  <!-- GitHub Stats -->
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=MohsenSafari83&show_icons=true&theme=dracula&hide_border=false&border_radius=5" 
+       height="150" 
+       alt="GitHub Stats" />
+  
+  <!-- Top Languages -->
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohsenSafari83&layout=compact&theme=dracula&hide_border=false&border_radius=5" 
+       height="150" 
+       alt="Top Languages" />
+
+</div>
 
 ---
 
