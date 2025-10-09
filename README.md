@@ -48,33 +48,17 @@ I’ve organized my work into a **master repository**:
 
 ##  GitHub Overview
 
-<div align="center">
-
-  <!-- Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF79C6&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Mohsen+Safari+👋;Frontend+Developer+%7C+React+%26+Next.js;Always+learning+new+things+💡" alt="Typing SVG" />
-
-  <br/>
-
   <!-- GitHub Stats -->
   <img 
-       src="https://github-readme-stats.vercel.app/api?username=MohsenSafari83&show_icons=true&theme=dracula&hide_border=false&border_radius=10" 
-       height="160" 
+       src="https://github-readme-stats.vercel.app/api?username=MohsenSafari83&show_icons=true&theme=dracula" 
+       height="150" 
        alt="GitHub Stats" />
-
-  <br/>
-
+  
   <!-- Top Languages -->
   <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohsenSafari83&layout=compact&theme=dracula&hide_border=false&border_radius=10" 
-       height="160" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohsenSafari83&layout=compact&theme=dracula" 
+       height="150" 
        alt="Top Languages" />
-
-  <br/>
-
-  <!-- Contribution Snake -->
-  <img 
-       src="https://raw.githubusercontent.com/MohsenSafari83/MohsenSafari83/output/github-contribution-grid-snake.svg" 
-       alt="Snake animation" />
 
 </div>
 
