@@ -48,15 +48,6 @@ I’ve organized my work into a **master repository**:
 
 ##  GitHub Stats
 
-<div align="center">
-
-  <!-- GitHub Streak -->
-  <img 
-       src="https://camo.githubusercontent.com/3ac0e758f43f2e42d3268b6a6c9e3b4d3e554837a9f8c3d8821f823cdb99dc48/68747470733a2f2f73747265616b2d73746174732e76657263656c2e6170702f3f757365723d4d6f6873656e5361666172693833267468656d653d64726163756c6126686964655f626f726465723d66616c736526626f726465725f7261646975733d35" 
-       height="150" 
-       alt="GitHub Streak" />
-  <br><br>
-
   <!-- GitHub Stats -->
   <img 
        src="https://github-readme-stats.vercel.app/api?username=MohsenSafari83&show_icons=true&theme=dracula" 
