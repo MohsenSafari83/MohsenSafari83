@@ -34,8 +34,9 @@ Showcasing my skills, projects, and learning journey
 ##  My Projects
 
 I’ve organized my work into a **master repository**:  
-[Machine Learning Projects](https://github.com/MohsenSafari83/machine-learning-projects)
-[hands-on in Deep Learning](https://github.com/MohsenSafari83/hands-on-in-Deep-Learning)
+- [Machine Learning Projects](https://github.com/MohsenSafari83/machine-learning-projects)
+
+- [hands-on in Deep Learning](https://github.com/MohsenSafari83/hands-on-in-Deep-Learning)
 
 ## Connect with me
 
