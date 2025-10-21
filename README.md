@@ -37,6 +37,7 @@ I’ve organized my work into a **master repository**:
 - [Machine Learning Projects](https://github.com/MohsenSafari83/machine-learning-projects)
 
 - [hands-on in Deep Learning](https://github.com/MohsenSafari83/hands-on-in-Deep-Learning)
+- [hands-on in Arduino](https://github.com/MohsenSafari83/Hands-On-Arduino)
 
 ## Connect with me
 
