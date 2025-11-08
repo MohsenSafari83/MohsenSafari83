@@ -38,6 +38,7 @@ I’ve organized my work into a **master repository**:
 
 - [hands-on in Deep Learning](https://github.com/MohsenSafari83/hands-on-in-Deep-Learning)
 - [hands-on in Arduino](https://github.com/MohsenSafari83/Hands-On-Arduino)
+- [hands- on STM32 Blue Pill](https://github.com/MohsenSafari83/Hands-on-STM32/tree/main)
 
 ## Connect with me
 
