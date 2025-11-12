@@ -1,77 +1,59 @@
-<h1 align="center">Hi, I'm Mohsen</h1>
+<h1 align="center"> Hi, I'm Mohsen Safari</h1>
 
-Electrical Engineering student at Shahid Beheshti University of Tehran  
-Machine Learning & Data Science enthusiast  
-Passionate about applying AI/ML in engineering, automation, and real-world problem solving  
-Showcasing my skills, projects, and learning journey
+<p align="center">
+   Electrical Engineering student at <b>Shahid Beheshti University of Tehran</b><br>
+   Passionate about bridging <b>AI and Embedded Systems</b><br>
+   I love building, debugging, and documenting projects that connect <b>code, circuits, and intelligence</b>.
+</p>
 
 ---
 
-##  Languages and Tools
+##  Languages & Tools
 
+###  Software Stack
+Python • C++ • SQL • NumPy • Pandas • Scikit-learn • Matplotlib • Jupyter • Git • GitHub • Kaggle  
+
+### ⚡ Embedded Platforms
 <div style="display:flex; gap:10px; flex-wrap: wrap; align-items:center;">
-
-  <!-- Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="36" title="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="36" title="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="36" title="SQL"/>
-  
-  <!-- Libraries -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="36" title="NumPy"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="36" title="Pandas"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="36" title="Matplotlib"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="36" title="Scikit-learn"/>
-  
-  <!-- Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="36" title="Jupyter"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="36" title="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="36" title="GitHub"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="36" title="Kaggle"/>
-
-  <!-- Hardware Platforms -->
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" title="Arduino"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="STM32" width="40" title="STM32 Microcontrollers"/>
-
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" title="Arduino"/> 
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40" title="STM32 Blue Pill"/> 
 </div>
 
+---
 
+## 🚀 My Projects
+
+| Repository | Description |
+|:-----------|:-------------|
+| [🤖 Machine Learning Projects](https://github.com/MohsenSafari83/machine-learning-projects) | End-to-end ML projects built from scratch, covering regression, classification, and clustering. |
+| [🧠 Hands-On in Deep Learning](https://github.com/MohsenSafari83/hands-on-in-Deep-Learning) | Implementing CNNs, RNNs, and Transformers using PyTorch & TensorFlow. |
+| [ Hands-On in Arduino](https://github.com/MohsenSafari83/Hands-On-Arduino) | Real-world embedded projects: sensors, actuators, and communication protocols (I2C, SPI, UART). |
+| [ Hands-On in STM32](https://github.com/MohsenSafari83/Hands-on-STM32/tree/main) | Low-level embedded development using STM32 Blue Pill with HAL and bare-metal programming. |
 
 ---
-##  My Projects
 
-I’ve organized my work into a **master repository**:  
-- [Machine Learning Projects](https://github.com/MohsenSafari83/machine-learning-projects)
-
-- [hands-on in Deep Learning](https://github.com/MohsenSafari83/hands-on-in-Deep-Learning)
-- [hands-on in Arduino](https://github.com/MohsenSafari83/Hands-On-Arduino)
-- [hands- on STM32 Blue Pill](https://github.com/MohsenSafari83/Hands-on-STM32/tree/main)
-
-## Connect with me
+## GitHub Overview
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mohsenn-safari">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn"/>
-  </a>
-  <a href="https://t.me/Mohsenn_sri">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" height="25" alt="Telegram"/>
-  </a>
-
-##  GitHub Overview
-
-  <!-- GitHub Stats -->
   <img 
-       src="https://github-readme-stats.vercel.app/api?username=MohsenSafari83&show_icons=true&theme=dracula" 
+       src="https://github-readme-stats.vercel.app/api?username=MohsenSafari83&show_icons=true&theme=tokyonight" 
        height="150" 
        alt="GitHub Stats" />
-  
-  <!-- Top Languages -->
   <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohsenSafari83&layout=compact&theme=dracula" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=MohsenSafari83&theme=tokyonight" 
        height="150" 
-       alt="Top Languages" />
-
+       alt="GitHub Streak" />
 </div>
 
 
+---
 
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohsenn-safari"><img src="https://skillicons.dev/icons?i=linkedin" height="40" title="LinkedIn"/></a>
+  <a href="https://t.me/Mohsenn_sri"><img src="https://skillicons.dev/icons?i=telegram" height="40" title="Telegram"/></a>
+  <a href="mailto:mohsensafari.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" title="Gmail"/></a>
+  <a href="https://github.com/MohsenSafari83"><img src="https://skillicons.dev/icons?i=github" height="40" title="GitHub"/></a>
+</p>
 
