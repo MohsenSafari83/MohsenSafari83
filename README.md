@@ -71,7 +71,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohsenn-safari"><img src="https://skillicons.dev/icons?i=linkedin" height="40" title="LinkedIn"/></a>
-  <a href="https://t.me/Mohsenn_sri"><img src="https://skillicons.dev/icons?i=telegram" height="40" title="Telegram"/></a>
+  <a href="https://t.me/Mohsenn_sri" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="36" alt="Telegram" title="Telegram"/>
+</a
   <a href="mailto:mohsensafari.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" title="Gmail"/></a>
   <a href="https://github.com/MohsenSafari83"><img src="https://skillicons.dev/icons?i=github" height="40" title="GitHub"/></a>
 </p>
