@@ -7,8 +7,7 @@ Showcasing my skills, projects, and learning journey
 
 ---
 
-
-## ⚙️ Languages and Tools
+##  Languages and Tools
 
 <div style="display:flex; gap:10px; flex-wrap: wrap; align-items:center;">
 
@@ -31,7 +30,7 @@ Showcasing my skills, projects, and learning journey
 
   <!-- Hardware Platforms -->
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" title="Arduino"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/STM32_logo.svg" alt="STM32" width="50" title="STM32 Microcontrollers"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="STM32" width="40" title="STM32 Microcontrollers"/>
 
 </div>
 
