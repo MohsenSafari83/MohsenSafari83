@@ -42,12 +42,12 @@
 
 ## 🚀 My Projects
 
-| Repository | Description |
-|:-----------|:-------------|
-| [ Machine Learning Projects](https://github.com/MohsenSafari83/machine-learning-projects) | End-to-end ML projects built from scratch, covering regression, classification, and clustering. |
-| [ Hands-On in Deep Learning](https://github.com/MohsenSafari83/hands-on-in-Deep-Learning) | Implementing CNNs, RNNs, and Transformers using PyTorch & TensorFlow. |
-| [ Hands-On in Arduino](https://github.com/MohsenSafari83/Hands-On-Arduino) | Real-world embedded projects: sensors, actuators, and communication protocols (I2C, SPI, UART). |
-| [ Hands-On in STM32](https://github.com/MohsenSafari83/Hands-on-STM32/tree/main) | Low-level embedded development using STM32 Blue Pill with HAL and bare-metal programming. |
+| Repository | Description |Status |
+|:-----------|:-------------|:-------------|
+| [ Machine Learning Projects](https://github.com/MohsenSafari83/machine-learning-projects) | End-to-end ML projects built and covering Supervised and Unsupervised learning Algorithms. |✅ Complete |
+| [ Hands-On in Deep Learning](https://github.com/MohsenSafari83/hands-on-in-Deep-Learning) | Implementing CNNs, RNNs, and Transformers using PyTorch & TensorFlow. | In Progress |
+| [ Hands-On in Arduino](https://github.com/MohsenSafari83/Hands-On-Arduino) |Embedded systems and hardware-based projects using Arduino IDE.| ✅Complete |
+| [ Hands-On in STM32](https://github.com/MohsenSafari83/Hands-on-STM32/tree/main) | Low-level embedded development using STM32 Blue Pill with HAL and bare-metal programming. |In Progress |
 
 ---
 
