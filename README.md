@@ -42,6 +42,8 @@
 
 ## 🚀 My Projects
 
+These repositories represent my ongoing journey through embedded systems, machine learning, and deep learning — blending software with hardware for real-world impact.
+
 | Repository | Description |Status |
 |:-----------|:-------------|:-------------|
 | [ Machine Learning Projects](https://github.com/MohsenSafari83/machine-learning-projects) | End-to-end ML projects built and covering Supervised and Unsupervised learning Algorithms. |✅ Complete |
