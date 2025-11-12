@@ -8,9 +8,10 @@ Showcasing my skills, projects, and learning journey
 ---
 
 
-##  Languages and Tools
+## ⚙️ Languages and Tools
 
-<div style="display:flex; gap:8px; flex-wrap: nowrap; align-items:center;">
+<div style="display:flex; gap:10px; flex-wrap: wrap; align-items:center;">
+
   <!-- Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="36" title="Python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="36" title="C++"/>
@@ -27,7 +28,13 @@ Showcasing my skills, projects, and learning journey
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="36" title="Git"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="36" title="GitHub"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="36" title="Kaggle"/>
+
+  <!-- Hardware Platforms -->
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" title="Arduino"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/STM32_logo.svg" alt="STM32" width="50" title="STM32 Microcontrollers"/>
+
 </div>
+
 
 
 ---
