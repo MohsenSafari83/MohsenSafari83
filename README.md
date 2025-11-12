@@ -10,9 +10,27 @@
 
 ##  Languages & Tools
 
-###  Software Stack
-Python • C++ • SQL • NumPy • Pandas • Scikit-learn • Matplotlib • Jupyter • Git • GitHub • Kaggle  
+### Software Stack
+<div style="display:flex; gap:10px; flex-wrap: wrap; align-items:center;">
+  
+  <!-- Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" title="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" title="SQL"/>
+  
+  <!-- Libraries -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" title="NumPy"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" title="Pandas"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" title="Matplotlib"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" title="Scikit-learn"/>
 
+  <!-- Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" title="Jupyter"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" title="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" title="GitHub"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="40" title="Kaggle"/>
+
+</div>
 ### ⚡ Embedded Platforms
 <div style="display:flex; gap:10px; flex-wrap: wrap; align-items:center;">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" title="Arduino"/> 
@@ -25,8 +43,8 @@ Python • C++ • SQL • NumPy • Pandas • Scikit-learn • Matplotlib • 
 
 | Repository | Description |
 |:-----------|:-------------|
-| [🤖 Machine Learning Projects](https://github.com/MohsenSafari83/machine-learning-projects) | End-to-end ML projects built from scratch, covering regression, classification, and clustering. |
-| [🧠 Hands-On in Deep Learning](https://github.com/MohsenSafari83/hands-on-in-Deep-Learning) | Implementing CNNs, RNNs, and Transformers using PyTorch & TensorFlow. |
+| [ Machine Learning Projects](https://github.com/MohsenSafari83/machine-learning-projects) | End-to-end ML projects built from scratch, covering regression, classification, and clustering. |
+| [ Hands-On in Deep Learning](https://github.com/MohsenSafari83/hands-on-in-Deep-Learning) | Implementing CNNs, RNNs, and Transformers using PyTorch & TensorFlow. |
 | [ Hands-On in Arduino](https://github.com/MohsenSafari83/Hands-On-Arduino) | Real-world embedded projects: sensors, actuators, and communication protocols (I2C, SPI, UART). |
 | [ Hands-On in STM32](https://github.com/MohsenSafari83/Hands-on-STM32/tree/main) | Low-level embedded development using STM32 Blue Pill with HAL and bare-metal programming. |
 
