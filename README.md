@@ -31,7 +31,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="40" title="Kaggle"/>
 
 </div>
-### ⚡ Embedded Platforms
+
+###  Embedded Platforms
 <div style="display:flex; gap:10px; flex-wrap: wrap; align-items:center;">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" title="Arduino"/> 
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40" title="STM32 Blue Pill"/> 
