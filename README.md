@@ -52,20 +52,18 @@ These repositories represent my ongoing journey through embedded systems, machin
 | [ Hands-On in STM32](https://github.com/MohsenSafari83/Hands-on-STM32/tree/main) | Low-level embedded development using STM32 Blue Pill with HAL and bare-metal programming. |In Progress |
 
 ---
-
 ## GitHub Overview
 
 <div align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=MohsenSafari83&show_icons=true&theme=tokyonight" 
-       height="150" 
-       alt="GitHub Stats" />
-  <img 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=MohsenSafari83&theme=tokyonight" 
-       height="150" 
-       alt="GitHub Streak" />
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=MohsenSafari83&show_icons=true&theme=tokyonight" 
+       height="150" 
+       alt="GitHub Stats" />
+  <img 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=MohsenSafari83&theme=tokyonight&hide_border=true" 
+       height="150" 
+       alt="GitHub Streak" />
 </div>
-
 
 ---
 
