@@ -54,8 +54,16 @@ These repositories represent my ongoing journey through embedded systems, machin
 ---
 ## GitHub Overview
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohsenSafari83&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohsenSafari83&theme=tokyonight&hide_border=true)
+<div align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=MohsenSafari83&show_icons=true&theme=tokyonight" 
+       height="150" 
+       alt="GitHub Stats" />
+  <img 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=MohsenSafari83&theme=tokyonight&hide_border=true" 
+       height="150" 
+       alt="GitHub Streak" />
+</div>
 
 ---
 
