@@ -1,67 +1,88 @@
-<h1 align="center"> Hi, I'm Mohsen Safari</h1>
+<div align="center">
 
-<p align="center">
-   Electrical Engineering student at <b>Shahid Beheshti University of Tehran</b><br>
-   Passionate about bridging <b>AI and Embedded Systems</b><br>
-   I love building, debugging, and documenting projects that connect <b>code, circuits, and intelligence</b>.
-</p>
+# Mohsen Safari
 
----
+**Electrical Engineering · Shahid Beheshti University of Tehran**
 
-##  Languages & Tools
+*Bridging embedded systems with machine intelligence*
 
-### Software Stack
-<div style="display:flex; gap:10px; flex-wrap: wrap; align-items:center;">
-  
-  <!-- Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" title="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" title="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" title="SQL"/>
-  
-  <!-- Libraries -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" title="NumPy"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" title="Pandas"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" title="Matplotlib"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" title="Scikit-learn"/>
-
-  <!-- Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" title="Jupyter"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" title="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" title="GitHub"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="40" title="Kaggle"/>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsenn-safari)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohsensafari.dev@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Mohsenn_sri)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MohsenSafari83)
 
 </div>
 
-###  Embedded Platforms
-<div style="display:flex; gap:10px; flex-wrap: wrap; align-items:center;">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" title="Arduino"/> 
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40" title="STM32 Blue Pill"/> 
-</div>
+---
+
+## About
+
+Electrical Engineering student focused at the intersection of **embedded systems** and **machine learning**. I build projects that connect low-level hardware control with data-driven intelligence — from bare-metal microcontroller firmware to end-to-end ML pipelines. Interested in robotics, computer vision, and intelligent embedded systems.
 
 ---
 
-## 🚀 My Projects
+## Technical Skills
 
-These repositories represent my ongoing journey through embedded systems, machine learning, and deep learning — blending software with hardware for real-world impact.
+### Languages
+`Python` `C++` `C` `SQL` `Verilog` `VHDL` `Assembly`
 
-| Repository | Description |Status |
-|:-----------|:-------------|:-------------|
-| [ Machine Learning Projects](https://github.com/MohsenSafari83/machine-learning-projects) | End-to-end ML projects built and covering Supervised and Unsupervised learning Algorithms. |✅ Complete |
-| [ Hands-On in Deep Learning](https://github.com/MohsenSafari83/hands-on-in-Deep-Learning) | Implementing CNNs, RNNs, and Transformers using PyTorch & TensorFlow. | In Progress |
-| [ Hands-On in Arduino](https://github.com/MohsenSafari83/Hands-On-Arduino) |Embedded systems and hardware-based projects using Arduino IDE.| ✅Complete |
-| [ Hands-On in STM32](https://github.com/MohsenSafari83/Hands-on-STM32/tree/main) | Low-level embedded development using STM32 Blue Pill with HAL and bare-metal programming. |In Progress |
+### Software & Libraries
+`NumPy` `Pandas` `Matplotlib` `Scikit-learn` `PyTorch` `TensorFlow`
+
+### Development Tools
+`Git` `GitHub` `Jupyter` `VS Code` `Proteus`
+
+### Embedded Platforms & Tools
+`Arduino` `STM32 (Blue Pill)` `AVR` `CodeVisionAVR` `STM32CubeIDE` `HAL` `Bare-metal`
 
 ---
 
+## Projects
 
-## 🌐 Connect with Me
+### 🔬 Machine Learning Projects
+*End-to-end supervised and unsupervised learning implementations.*
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohsenn-safari"><img src="https://skillicons.dev/icons?i=linkedin" height="40" title="LinkedIn"/></a>
-  <a href="https://t.me/Mohsenn_sri" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="36" alt="Telegram" title="Telegram"/>
-</a
-  <a href="mailto:mohsensafari.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" title="Gmail"/></a>
-  <a href="https://github.com/MohsenSafari83"><img src="https://skillicons.dev/icons?i=github" height="40" title="GitHub"/></a>
-</p>
+- **Problem:** Explore and implement core ML algorithms from data preprocessing to model evaluation.
+- **Stack:** Python, NumPy, Pandas, Scikit-learn, Matplotlib, Jupyter.
+- **Scope:** Regression, classification, clustering, dimensionality reduction, model tuning.
+- **Engineering focus:** Clean data pipelines, reproducible experimentation, performance benchmarking.
 
+[View Repository →](https://github.com/MohsenSafari83/machine-learning-projects)
+
+### 🧠 Hands-On in Deep Learning
+*Implementing CNNs, RNNs, and Transformers — currently in progress.*
+
+- **Problem:** Build practical understanding of modern deep learning architectures through hands-on implementation.
+- **Stack:** Python, PyTorch, TensorFlow, Jupyter.
+- **Scope:** Convolutional networks, recurrent architectures, attention mechanisms.
+- **Engineering focus:** Model design, training workflows, hyperparameter optimization.
+
+[View Repository →](https://github.com/MohsenSafari83/hands-on-in-Deep-Learning)
+
+### ⚙️ Hands-On in Arduino
+*Embedded systems and hardware interfacing projects.*
+
+- **Problem:** Sensor integration, actuator control, and real-time embedded logic on AVR-based microcontrollers.
+- **Stack:** Arduino IDE, C++, Proteus (simulation), AVR, CodeVisionAVR.
+- **Scope:** GPIO, ADC, PWM, serial communication, sensor drivers, interrupt-based design.
+- **Engineering focus:** Hardware-software co-design, real-time constraints, debugging at the logic-analyzer level.
+
+[View Repository →](https://github.com/MohsenSafari83/Hands-On-Arduino)
+
+### 🔧 Hands-On in STM32
+*Low-level embedded development using ARM Cortex-M.*
+
+- **Problem:** Firmware development with and without HAL — understanding the hardware from the register up.
+- **Stack:** C, STM32CubeIDE, HAL, bare-metal.
+- **Scope:** GPIO, timers, interrupts, USART, ADC, PWM, system clock configuration.
+- **Engineering focus:** Register-level control, minimal resource utilization, firmware architecture.
+
+[View Repository →](https://github.com/MohsenSafari83/Hands-on-STM32)
+
+---
+
+## Direction
+
+**Current focus:** Deepen expertise in embedded ML (TinyML), real-time computer vision, and robotic control systems — combining low-level firmware with learned models for intelligent, resource-constrained deployment.
+
+**Looking for:** Internship and research opportunities in embedded systems, robotics, and applied ML.
