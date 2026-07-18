@@ -29,7 +29,7 @@ Currently, I'm focusing on computer vision and deep learning, while exploring ha
 | **[Machine Learning Projects](https://github.com/MohsenSafari83/machine-learning-projects)** | End-to-end ML projects covering supervised and unsupervised learning algorithms, from data preprocessing to model evaluation | `Python` `Scikit-learn` `NumPy` |
 | **[Hands-On in Arduino](https://github.com/MohsenSafari83/Hands-On-Arduino)** | Embedded systems and hardware interfacing projects — sensor integration, actuator control | `C++` `Arduino` |
 | **[STM32 Smart Clock](https://github.com/MohsenSafari83/stm32-smart-clock)** | STM32-based digital clock with RTC, display driver, and alarm functionality using HAL and bare-metal programming | `C` `STM32` `HAL` |
-| **[Hands-On in Deep Learning](https://github.com/MohsenSafari83/hands-on-in-Deep-Learning)** | Implementing CNNs, RNNs, and Transformers using TensorFlow — architecture design and training workflows | `Python``TensorFlow` |
+| **[Hands-On in Deep Learning](https://github.com/MohsenSafari83/hands-on-in-Deep-Learning)** | Implementing CNNs, RNNs, and Transformers using TensorFlow — architecture design and training workflows | `Python` `TensorFlow` |
 
 <br>
 
