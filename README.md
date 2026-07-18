@@ -15,10 +15,11 @@ Embedded Systems · Computer Vision · Machine Intelligence
 
 ## About Me
 
-I'm an EE student who works across the full embedded stack — from bare-metal firmware on ARM and AVR microcontrollers to computer vision and machine learning pipelines. I like taking systems from silicon-level constraints up to intelligent, real-time behavior.
+I'm an Electrical Engineering student passionate about building intelligent embedded systems.
 
-Right now I'm deepening my computer vision and deep learning foundations (starting with OpenCV), and exploring how FPGA acceleration fits into real-time vision pipelines.
+My work spans embedded firmware, digital systems, computer vision, and machine learning — combining low-level programming on ARM/AVR microcontrollers with higher-level AI-driven applications.
 
+Currently, I'm focusing on computer vision and deep learning, while exploring hardware acceleration techniques using FPGA for real-time processing.
 <br>
 
 ## Featured Projects
