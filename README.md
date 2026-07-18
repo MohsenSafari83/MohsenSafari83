@@ -6,7 +6,7 @@
 Embedded Systems · Computer Vision · Machine Intelligence
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsenn-safari)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohsensafari.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohsenn.safari83@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Mohsenn_sri)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MohsenSafari83)
 
@@ -23,7 +23,7 @@ Right now I'm deepening my computer vision and deep learning foundations (starti
 - 🔭 Currently building: *(add your current project here)*
 - 🌱 Learning: Computer Vision, Deep Learning, FPGA/HLS
 - 💬 Ask me about: Embedded Systems, STM32/AVR, Classical ML
-- 📫 Reach me: mohsensafari.dev@gmail.com
+
 
 <br>
 
@@ -63,10 +63,5 @@ Right now I'm deepening my computer vision and deep learning foundations (starti
 
 <br>
 
-## Contact
-
-📧 [mohsensafari.dev@gmail.com](mailto:mohsensafari.dev@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/mohsenn-safari) · 💬 [Telegram](https://t.me/Mohsenn_sri)
-
-<div align="center">
-<sub>⭐ Feel free to check out my repositories and connect!</sub>
-</div>
+---
+![3D Contribution Graph](./profile-3d-contrib/profile-gitblock.svg)
