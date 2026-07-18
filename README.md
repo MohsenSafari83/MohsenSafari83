@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 # Mohsen Safari
@@ -47,4 +47,4 @@ Electrical Engineering student at the intersection of hardware and intelligence.
 ---
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-gitblock.svg)
-```
+
