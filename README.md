@@ -1,4 +1,4 @@
-**<div align="center">
+<div align="center">
 
 # Hi, I'm Mohsen Safari 👋
 
@@ -84,4 +84,4 @@ Right now I'm deepening my computer vision and deep learning foundations (starti
 
 ---
 ![3D Contribution Graph](./profile-3d-contrib/profile-gitblock.svg)
-**
+
