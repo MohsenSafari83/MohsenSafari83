@@ -1,95 +1,98 @@
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Mohsen%20Safari&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=MohsenSafari83">
+    <img src="https://komarev.com/ghpvc/?username=MohsenSafari83&label=Profile%20views&color=00FFFF&style=flat-square" alt="MohsenSafari83's profile views" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
+
+## 📌 About Me
+- I'm an Electrical Engineering student passionate about building intelligent embedded systems.
+- My work spans embedded firmware, digital systems, computer vision, and machine learning — combining low-level programming on ARM/AVR microcontrollers with higher-level AI-driven applications.
+- Currently, I'm focusing on computer vision and deep learning, while exploring hardware acceleration techniques using FPGA for real-time processing.
+
+
+## 🧠 My Focus Areas
+- Embedded Systems Engineering
+- Computer Vision for Embedded Platforms
+- Machine Learning & Deep Learning
+- Optical Communication Systems
+
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/MohsenSafari83">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MohsenSafari83&cache_seconds=7200&layout=compact&theme=merko&border_radius=10" alt="MohsenSafari83's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=MohsenSafari83&theme=merko&hide_border=true&cache_seconds=86400" alt="MohsenSafari83's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=MohsenSafari83&theme=merko&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Mohsen Safari's GitHub Trophies" />
+</p>
+
+
+## 🛠️ Languages & Tools
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+</p>
+
+
+<h3 align="center">Embedded Systems</h3>
+
+<p align="center">
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40"/>
+  <img src="https://cdn.simpleicons.org/arm" width="40"/>
+  <img src="https://cdn.simpleicons.org/stmicroelectronics" width="40"/>
+</p>
+
+<p align="center">
+<b>STM32</b> • <b>AVR</b> • <b>ARM</b> 
+
+</p>
+
+<h3 align="center">AI / Computer Vision</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+</p>
+
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40"/>
+</p>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohsenn-safari/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;
+
+  <a href="mailto:mohsenn.safari83@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://t.me/Mohsenn_sri">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" alt="Telegram" width="40" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
 <div align="center">
-
-# Hi, I'm Mohsen Safari 👋
-
-**Electrical Engineering Student** @ Shahid Beheshti University of Tehran
-Embedded Systems · Computer Vision · Machine Intelligence
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsenn-safari)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohsenn.safari83@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Mohsenn_sri)
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
 
-<br>
-
-## About Me
-
-I'm an Electrical Engineering student passionate about building intelligent embedded systems.
-
-My work spans embedded firmware, digital systems, computer vision, and machine learning — combining low-level programming on ARM/AVR microcontrollers with higher-level AI-driven applications.
-
-Currently, I'm focusing on computer vision and deep learning, while exploring hardware acceleration techniques using FPGA for real-time processing.
-<br>
-
-## Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **[Machine Learning Projects](https://github.com/MohsenSafari83/machine-learning-projects)** | End-to-end ML projects covering supervised and unsupervised learning algorithms, from data preprocessing to model evaluation | `Python` `Scikit-learn` `NumPy` |
-| **[Hands-On in Arduino](https://github.com/MohsenSafari83/Hands-On-Arduino)** | Embedded systems and hardware interfacing projects — sensor integration, actuator control | `C++` `Arduino` |
-| **[STM32 Smart Clock](https://github.com/MohsenSafari83/stm32-smart-clock)** | STM32-based digital clock with RTC, display driver, and alarm functionality using HAL and bare-metal programming | `C` `STM32` `HAL` |
-| **[Hands-On in Deep Learning](https://github.com/MohsenSafari83/hands-on-in-Deep-Learning)** | Implementing CNNs, RNNs, and Transformers using TensorFlow — architecture design and training workflows | `Python` `TensorFlow` |
-
-<br>
-
-## Tech Stack
-
-<table>
-<tr>
-<td valign="top" width="25%">
-<b>Languages</b>
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</td>
-<td valign="top" width="25%">
-<b>Embedded</b>
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![AVR](https://img.shields.io/badge/AVR-1F8ACB?style=flat-square)
-![ARM](https://img.shields.io/badge/ARM-0091BD?style=flat-square&logo=arm&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-008542?style=flat-square)
-
-</td>
-<td valign="top" width="25%">
-<b>AI / Computer Vision</b>
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-
-</td>
-<td valign="top" width="25%">
-<b>Tools</b>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MohsenSafari83&show_icons=true&theme=default&hide_border=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohsenSafari83&hide_border=true" height="165" />
-</div>
-
-<br>
-
----
-
-![3D Contribution Graph](./profile-3d-contrib/profile-gitblock.svg)
