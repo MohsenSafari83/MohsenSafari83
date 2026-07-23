@@ -76,6 +76,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40"/>
 </p>
 
+![Top language](https://stats.pphat.top/languages?username=MohsenSafari83)
+<br/>
+
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/mohsenn-safari/">
@@ -89,7 +92,7 @@
   <a href="https://t.me/Mohsenn_sri">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" alt="Telegram" width="40" />
   </a>
-      <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+      
   </a>
 </p>
 <p align="center">
