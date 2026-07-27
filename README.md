@@ -21,7 +21,7 @@
 - Optical Communication Systems
 
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/MohsenSafari83">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MohsenSafari83&cache_seconds=7200&layout=compact&theme=merko&border_radius=10" alt="MohsenSafari83's GitHub Stats" />
@@ -32,25 +32,25 @@
 
 ## 🛠️ Languages & Tools
 
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 </p>
 
-<p align="center">
+<p>
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40"/>
   <img src="https://cdn.simpleicons.org/arm" width="40"/>
   <img src="https://cdn.simpleicons.org/stmicroelectronics" width="40"/>
 </p>
 
-<p align="center">
+<p>
 <b>STM32</b> • <b>AVR</b> • <b>ARM</b> 
 
 </p>
 
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
@@ -58,7 +58,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
 
 </p>
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
