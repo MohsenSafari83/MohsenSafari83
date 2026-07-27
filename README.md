@@ -28,9 +28,6 @@
   </a>
   <img src="https://streak-stats.demolab.com/?user=MohsenSafari83&theme=merko&hide_border=true&cache_seconds=86400" alt="MohsenSafari83's GitHub Streak" width="49%" />
 </p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=MohsenSafari83&theme=merko&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Mohsen Safari's GitHub Trophies" />
-</p>
 
 
 ## 🛠️ Languages & Tools
