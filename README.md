@@ -36,7 +36,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40"/>
   <img src="https://cdn.simpleicons.org/arm" width="40"/>
   <img src="https://cdn.simpleicons.org/stmicroelectronics" width="40"/>
-<b>STM32</b> • <b>AVR</b> • <b>ARM</b> 
+  <img src="assets/avr.png" alt="AVR" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
