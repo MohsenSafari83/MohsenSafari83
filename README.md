@@ -15,17 +15,6 @@
 - Computer Vision for Embedded Platforms
 - Machine Learning & Deep Learning
 - Optical Communication Systems
-
-
-## 📊 GitHub Stats
-<p align="center">
-  <a href="https://github.com/MohsenSafari83">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MohsenSafari83&cache_seconds=7200&layout=compact&theme=merko&border_radius=10" alt="MohsenSafari83's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=MohsenSafari83&theme=merko&hide_border=true&cache_seconds=86400" alt="MohsenSafari83's GitHub Streak" width="49%" />
-</p>
-
-
 ## 🛠️ Languages & Tools
 
 <p align="center">
@@ -48,8 +37,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40"/>
 </p>
-
-![Top language](https://stats.pphat.top/languages?username=MohsenSafari83)
 <br/>
 
 ## 🔗 Connect with Me
